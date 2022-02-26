@@ -3,11 +3,15 @@ const Wel = JSON.parse(fs.readFileSync('./database/welcome.json'));
 
 const welAwal = `*Selamat Datang* @tag di @group
 
-*Nama* : @nama
-*Bio* : @about 
-*Tanggal* : @tanggal 
+◧ Intro Dulu
+*□* Nama :
+*□* Umur :
+*□* Hobby :
+*□* Gender :
+*□* Asal Kota :
 
-Jangan lupa baca deskripsi group ya`;
+*□* #No Promosi  
+*□* #Baca Deskripsi & Patuhi Rules!!
 
 const byeAwal = `Selamat tinggal @tag`;
 /**
